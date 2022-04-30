@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{2d13f744-e1ee-4092-a6ae-bf8c378a9720}">
+		<property name="name">
+			<value>Vuelta_de_la_carrera</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ddd1491e-a63d-4dbb-89a8-4d714b6d7f74}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{eca50da3-94fa-4e69-8509-47dbc1b24c71}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{eca50da3-94fa-4e69-8509-47dbc1b24c71}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>
