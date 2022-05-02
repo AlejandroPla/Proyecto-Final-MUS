@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{5fae3918-82c7-44a8-9ecc-7f87e4dcb56c}">
+		<property name="name">
+			<value>Bajo el agua</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ddd1491e-a63d-4dbb-89a8-4d714b6d7f74}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9709ed74-e508-49ed-b036-afdb44b00ed7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9709ed74-e508-49ed-b036-afdb44b00ed7}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
