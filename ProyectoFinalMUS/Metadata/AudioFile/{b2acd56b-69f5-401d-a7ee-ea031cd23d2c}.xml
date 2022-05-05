@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{b2acd56b-69f5-401d-a7ee-ea031cd23d2c}">
 		<property name="assetPath">
-			<value>Combat Percussion LOOP ACTION.wav</value>
+			<value>Combate/Combat Percussion LOOP ACTION.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

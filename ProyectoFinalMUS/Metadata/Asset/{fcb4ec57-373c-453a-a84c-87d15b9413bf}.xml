@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{fcb4ec57-373c-453a-a84c-87d15b9413bf}">
+		<property name="assetPath">
+			<value>Buceo/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{88f5cd2e-48d8-4cee-b81c-9331b31662b8}</destination>
+		</relationship>
+	</object>
+</objects>

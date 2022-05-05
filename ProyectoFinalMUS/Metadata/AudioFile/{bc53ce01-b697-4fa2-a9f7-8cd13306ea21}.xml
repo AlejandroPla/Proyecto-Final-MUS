@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{bc53ce01-b697-4fa2-a9f7-8cd13306ea21}">
 		<property name="assetPath">
-			<value>ICE_Cracking_Deep_loop_mono.wav</value>
+			<value>Montaña/ICE_Cracking_Deep_loop_mono.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

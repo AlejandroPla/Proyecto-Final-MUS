@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{3381db05-3a0e-44b7-9920-8c6424d4596b}">
 		<property name="assetPath">
-			<value>Barren Combat LOOP END.wav</value>
+			<value>Combate/Barren Combat LOOP END.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

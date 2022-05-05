@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{c0e615a2-8af8-4630-a574-421d5cee105d}">
+		<property name="name">
+			<value>Buceando</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ddd1491e-a63d-4dbb-89a8-4d714b6d7f74}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7f5acb5f-fcaa-4804-a163-41958711ec1e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7f5acb5f-fcaa-4804-a163-41958711ec1e}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>True</value>
+			<value>False</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

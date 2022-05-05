@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{5dde5c46-40b3-4702-9923-04e25748034c}">
 		<property name="assetPath">
-			<value>nextlap.wav</value>
+			<value>Carrera/nextlap.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

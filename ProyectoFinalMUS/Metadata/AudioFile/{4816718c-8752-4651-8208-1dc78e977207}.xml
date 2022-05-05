@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{4816718c-8752-4651-8208-1dc78e977207}">
 		<property name="assetPath">
-			<value>Frantic Battle LOOP END.wav</value>
+			<value>Combate/Frantic Battle LOOP END.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{5a927cc0-76db-4d26-8e84-556c7a903ad2}">
 		<property name="assetPath">
-			<value>Tribal Chase LOOP END.wav</value>
+			<value>Combate/Tribal Chase LOOP END.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

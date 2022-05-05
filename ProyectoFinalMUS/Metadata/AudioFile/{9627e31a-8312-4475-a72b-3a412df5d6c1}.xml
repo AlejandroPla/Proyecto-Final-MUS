@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{9627e31a-8312-4475-a72b-3a412df5d6c1}">
 		<property name="assetPath">
-			<value>vuelta2.wav</value>
+			<value>Carrera/vuelta2.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

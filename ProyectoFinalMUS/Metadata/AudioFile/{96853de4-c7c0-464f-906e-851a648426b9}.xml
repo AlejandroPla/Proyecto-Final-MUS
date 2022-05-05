@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{96853de4-c7c0-464f-906e-851a648426b9}">
 		<property name="assetPath">
-			<value>AUDIENCE_Claps_and_Cheers_02_stereo.wav</value>
+			<value>Carrera/AUDIENCE_Claps_and_Cheers_02_stereo.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

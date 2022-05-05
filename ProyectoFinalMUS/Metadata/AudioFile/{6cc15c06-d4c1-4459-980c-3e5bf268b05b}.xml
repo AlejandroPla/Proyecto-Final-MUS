@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{6cc15c06-d4c1-4459-980c-3e5bf268b05b}">
 		<property name="assetPath">
-			<value>Medieval Market LOOP.wav</value>
+			<value>Combate/Medieval Market LOOP.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
