@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{14988725-ba85-46e8-b40a-c7477dd64da7}">
+		<property name="assetPath">
+			<value>Monstruo/Scratching SCARE.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.8333560090702949</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{88f5cd2e-48d8-4cee-b81c-9331b31662b8}</destination>
+		</relationship>
+	</object>
+</objects>
