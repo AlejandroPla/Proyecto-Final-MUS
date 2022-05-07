@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{1c4beedf-b3d2-4274-b435-595f54f67f9c}">
+		<property name="assetPath">
+			<value>Carrera/AUDIENCE_Claps_and_Cheers_11_stereo.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.3105442176870747</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{88f5cd2e-48d8-4cee-b81c-9331b31662b8}</destination>
+		</relationship>
+	</object>
+</objects>
