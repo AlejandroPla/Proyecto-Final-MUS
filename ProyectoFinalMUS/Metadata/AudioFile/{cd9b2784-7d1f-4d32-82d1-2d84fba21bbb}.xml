@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{cd9b2784-7d1f-4d32-82d1-2d84fba21bbb}">
 		<property name="assetPath">
-			<value>musicaAmbientalExploracionLoopBA.wav</value>
+			<value>Combate/musicaAmbientalExploracionLoopBA.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
